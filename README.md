@@ -12,10 +12,10 @@ The purpose of this analysis was to predict how different factors collectively p
 ![Undersampling](https://github.com/mayamtims/Credit_Risk_Analysis/blob/main/images/Undersampling.png)
 
 - Combination Sampling: The balance accuracy score is 54%, the precision is 1% and the recall is 72% for high risk loans
-![Combination](https://github.com/mayamtims/Credit_Risk_Analysis/blob/main/images/usebygender.png)
+![Combination](https://github.com/mayamtims/Credit_Risk_Analysis/blob/main/images/Combination.png)
 
 - Balanced Random Forest Classifier: The balance accuracy score is 78%, the precision is 3% and the recall is 67% for high risk loans
-![Forest](https://github.com/mayamtims/Credi_Risk_Analysis/blob/main/images/Forest.png)
+![Forest](https://github.com/mayamtims/Credit_Risk_Analysis/blob/main/images/Forest.png)
 
 - Easy Ensemble AdaBoost Classifier: The balance accuracy score is 93%, the precision is 9% and the recall is 92% for high risk loans
 ![early](https://github.com/mayamtims/Credit_Risk_Analysis/blob/main/images/early.png)
